@@ -14,10 +14,6 @@
 * Use the data model from Day 1 Workshop
 * Test accordingly
 
-## Workshop: JAX-WS tested with Arquillian 
-
-TBD 
-
 ### Arquillian related Resources
 
 * Container adapters https://docs.jboss.org/author/display/ARQ/Container%20adapters.html 
